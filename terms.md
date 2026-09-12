@@ -1,6 +1,6 @@
 # Terms of Use for Traceless
 
-*Last Updated: September 13, 2026*
+*Last Updated: September 12, 2026*
 
 By downloading or using the Traceless application ("App"), these terms automatically apply to you. Please make sure you read them carefully before using the App.
 
