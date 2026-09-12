@@ -1,6 +1,6 @@
 # Terms of Use for Traceless
 
-*Last Updated: September 12, 2026*
+*Last Updated: September 13, 2026*
 
 By downloading or using the Traceless application ("App"), these terms automatically apply to you. Please make sure you read them carefully before using the App.
 
@@ -11,7 +11,7 @@ By using Traceless, you agree to be bound by Apple's Standard End User License A
 
 ## 2. Free Use and Subscriptions
 
-Traceless is free to download and includes a limited number of free cleanings. Unlimited cleaning is available through an auto-renewing subscription:
+Traceless is free to download and includes one free cleaning. Unlimited cleaning is available through an auto-renewing subscription:
 
 * **Traceless Pro — 1 Month**
 
